@@ -1,1 +1,1 @@
-VerifAI widget bundle — onprem — 37ca9a6 — 2026-10-12T09:31:52Z
+VerifAI widget bundle — onprem — api=https://metachecker.meta-plm.com — 0e0000f — 2026-10-12T09:53:40Z
